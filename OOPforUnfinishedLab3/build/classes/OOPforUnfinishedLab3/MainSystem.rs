@@ -1,0 +1,7 @@
+OOPforUnfinishedLab3.Regular
+OOPforUnfinishedLab3.Operator
+OOPforUnfinishedLab3.Inventory
+OOPforUnfinishedLab3.Admin
+OOPforUnfinishedLab3.Shop
+OOPforUnfinishedLab3.Item
+OOPforUnfinishedLab3.EmployeeUser
